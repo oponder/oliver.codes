@@ -3,7 +3,7 @@ if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
 } else {
 $('#projects-terminal').sticky({
   context: '#projects',
-  offset:  10
+  offset:  80
 });		
 }
 
