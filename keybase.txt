@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/oponder
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://oliver.codes
+  * I am oponder (https://keybase.io/oponder) on keybase.
+  * I have a public key ASBI_N3ZyxyluV1gFDlt0TehIb1lBZSYJ1wEQaKh0Sz-0Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012048fcddd9cb1ca5b95d6014396dd137a121bd65059498275c0441a2a1d12cfed00a",
+      "host": "keybase.io",
+      "kid": "012048fcddd9cb1ca5b95d6014396dd137a121bd65059498275c0441a2a1d12cfed00a",
+      "uid": "7eb97c9f2f4b04a0ccc1ab539618a019",
+      "username": "oponder"
+    },
+    "merkle_root": {
+      "ctime": 1507191609,
+      "hash": "4b83fb353b281324ae2ba4b625d098553c32056bdc3ea82f26bf47bd9463fb85045455ff1b6d59fd2a57e167389a3495dda4b9e9effc610df958f8cb37b527d5",
+      "hash_meta": "6e28a0e6510a36b65225a2104b8ce914471ee857619cf698f705fcbc1f235c58",
+      "seqno": 1508780
+    },
+    "service": {
+      "hostname": "oliver.codes",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1507191625,
+  "expire_in": 504576000,
+  "prev": "d6543c804d3039ea2e817d9dac994080bb69f718e9aeedad3aa7ceb10fec3b44",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSPzd2cscpbldYBQ5bdE3oSG9ZQWUmCdcBEGiodEs/tAKp3BheWxvYWTFA0N7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNDhmY2RkZDljYjFjYTViOTVkNjAxNDM5NmRkMTM3YTEyMWJkNjUwNTk0OTgyNzVjMDQ0MWEyYTFkMTJjZmVkMDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDhmY2RkZDljYjFjYTViOTVkNjAxNDM5NmRkMTM3YTEyMWJkNjUwNTk0OTgyNzVjMDQ0MWEyYTFkMTJjZmVkMDBhIiwidWlkIjoiN2ViOTdjOWYyZjRiMDRhMGNjYzFhYjUzOTYxOGEwMTkiLCJ1c2VybmFtZSI6Im9wb25kZXIifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDcxOTE2MDksImhhc2giOiI0YjgzZmIzNTNiMjgxMzI0YWUyYmE0YjYyNWQwOTg1NTNjMzIwNTZiZGMzZWE4MmYyNmJmNDdiZDk0NjNmYjg1MDQ1NDU1ZmYxYjZkNTlmZDJhNTdlMTY3Mzg5YTM0OTVkZGE0YjllOWVmZmM2MTBkZjk1OGY4Y2IzN2I1MjdkNSIsImhhc2hfbWV0YSI6IjZlMjhhMGU2NTEwYTM2YjY1MjI1YTIxMDRiOGNlOTE0NDcxZWU4NTc2MTljZjY5OGY3MDVmY2JjMWYyMzVjNTgiLCJzZXFubyI6MTUwODc4MH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJvbGl2ZXIuY29kZXMiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMzIn0sImN0aW1lIjoxNTA3MTkxNjI1LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImQ2NTQzYzgwNGQzMDM5ZWEyZTgxN2Q5ZGFjOTk0MDgwYmI2OWY3MThlOWFlZWRhZDNhYTdjZWIxMGZlYzNiNDQiLCJzZXFubyI6MjIsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAOU2C05/B4//oO6dZq+2mKv23OBvaBZicV9irCSlMSuJuv9UVgo/tfVTVxFHF9ymRMt4rcxKuXj9thO5x1hBnCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHMEu6LcKfNik/bss/WSVWrnl7zdpAVyB8TBg7VYhKxwo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/oponder
+
+==================================================================
